@@ -1,10 +1,10 @@
 [
     {
-        "UpdateStageName": "",
+        "UpdateStageName": "Download files",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "915810",
-        "UpdateSourceArgs": "915810",
+        "UpdateSourceArgs": "",
         "UpdateSourceVersion": "",
         "UpdateSourceTarget": "",
         "UnzipUpdateSource": false,
