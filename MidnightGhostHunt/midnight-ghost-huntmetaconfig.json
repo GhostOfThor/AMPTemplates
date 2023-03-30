@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "WindowsServer\\CutomRules.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
