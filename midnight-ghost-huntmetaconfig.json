@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "WindowsServer\\CutomRules.ini",
+        "ConfigFile": "CutomRules.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }
