@@ -1,0 +1,68 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "MGH Server Settings",
+        "Description": "",
+        "Keywords": "server,name",
+        "FieldName": "gamename",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "gamename",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "My MGH Server",
+        "Placeholder": "My MGH Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Starting Map",
+        "Category": "MGH Server Settings",
+        "Description": "",
+        "Keywords": "starting,map",
+        "FieldName": "map",
+        "InputType": "enum",
+        "IsFlagArgument": false,
+        "ParamFieldName": "map",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "Mansion",
+        "Placeholder": "Mansion",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {
+            "Mansion": "Mansion",
+            "Asylum": "Asylum",
+            "Theatre": "Theatre",
+            "Museum": "Museum",
+            "Ghost Ship": "Ghost Ship",
+            "Carnival": "Carnival",
+            "School": "School",
+            "Graveyard": "Graveyard",
+            "Doll Factory": "Doll Factory",
+            "Mall": "Mall"
+        }
+    },
+    {
+        "DisplayName": "Gamemode",
+        "Category": "MGH Server Settings",
+        "Description": "",
+        "Keywords": "gamemode",
+        "FieldName": "gamemode",
+        "InputType": "enum",
+        "IsFlagArgument": false,
+        "ParamFieldName": "gamemode",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "4v4 Hunt",
+        "Placeholder": "4v4 Hunt",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {
+            "4v4 Hunt": "4v4 Hunt",
+            "6v6 Hunt": "6v6 Hunt",
+            "Darkness": "Darkness"
+        }
+    }
+]
